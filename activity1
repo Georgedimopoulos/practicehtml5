@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Recipe Handbook</title>
+</head>
+<body>
+    <h1>My Favorite Recipes!</h1>
+    <h3>This is the first recipe.</h3>
+    <hr>
+        <ol>
+            <li><em>This is step 1.</em></li>
+            <li><em>This is step 2.</em></li>
+            <li><em>This is step 3.</em></li>
+            <li><em><b>Enjoy!</b></em></li>
+        </ol>
+    <hr>
+</body>
+</html>
